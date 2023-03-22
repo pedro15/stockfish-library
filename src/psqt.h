@@ -1,0 +1,4 @@
+namespace PSQT
+{
+    void init();
+}

@@ -1,0 +1,5 @@
+src/*.o
+src/*.exe
+src/*.dll
+src/*.so
+src/.depend
